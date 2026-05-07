@@ -17,6 +17,8 @@ Built for RevOps and Marketing leaders who spend Monday mornings copy-pasting nu
 
 ## Demo
 
+![AI Revenue Narrator Demo](demo.png)
+
 ```bash
 $ python narrator.py sample_crm_data.csv "Week of Jan 6, 2025"
 
