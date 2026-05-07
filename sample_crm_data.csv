@@ -1,0 +1,19 @@
+company,owner,stage,amount,lead_source,close_date,industry
+Acme Corp,Sarah Chen,Closed Won,45000,LinkedIn,2025-01-03,SaaS
+TechFlow Inc,Marcus Webb,Closed Won,28000,Referral,2025-01-04,Fintech
+Riverstone Partners,Sarah Chen,Closed Lost,62000,Outbound,2025-01-04,Consulting
+Apex Solutions,Diana Rossi,Negotiation,38000,Inbound,2025-01-05,SaaS
+BrightPath Co,Marcus Webb,Closed Won,19000,LinkedIn,2025-01-05,HR Tech
+Nimbus Systems,Carlos Mendez,Discovery,52000,Outbound,2025-01-06,Enterprise
+DataSync Pro,Sarah Chen,Closed Won,33000,Referral,2025-01-06,Analytics
+Sterling Ventures,Diana Rossi,Closed Lost,41000,Inbound,2025-01-06,Finance
+Cascade Labs,Carlos Mendez,Proposal,27000,LinkedIn,2025-01-07,Biotech
+MomentumAI,Marcus Webb,Closed Won,155000,Conference,2025-01-07,AI/ML
+Crestview Group,Sarah Chen,Closed Lost,22000,Outbound,2025-01-07,Retail
+PrismTech,Diana Rossi,Closed Won,31000,Referral,2025-01-08,SaaS
+Horizon Media,Carlos Mendez,Negotiation,44000,Inbound,2025-01-08,Media
+Vertex Analytics,Marcus Webb,Closed Lost,18000,Outbound,2025-01-08,Analytics
+BlueSky Fintech,Sarah Chen,Discovery,67000,LinkedIn,2025-01-09,Fintech
+Ember Labs,Diana Rossi,Closed Won,25000,Referral,2025-01-09,SaaS
+Pathfinder Co,Carlos Mendez,Closed Lost,36000,Outbound,2025-01-09,Logistics
+Redwood Systems,Marcus Webb,Proposal,48000,Inbound,2025-01-10,Enterprise
