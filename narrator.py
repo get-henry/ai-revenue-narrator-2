@@ -8,6 +8,8 @@ with anomaly callouts. No more Monday morning report writing.
 import anthropic
 import csv
 import json
+from dotenv import load_dotenv
+load_dotenv()
 import sys
 from collections import defaultdict
 from datetime import date, datetime, timedelta

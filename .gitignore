@@ -1,8 +1,6 @@
 .env
 *.pyc
 __pycache__/
-*.csv
-!sample_*.csv
-brief_*.md
 revenue_report_*.md
+!sample_*.csv
 .DS_Store
